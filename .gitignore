@@ -26,3 +26,4 @@ go.work
 
 input/
 days/**/*.txt
+advent_of_code_go_template
